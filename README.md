@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-en-el-vacio/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Caricias en el vacío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-en-el-vacio/) |
+| **Get License** | [License this song: Caricias en el vacío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-en-el-vacio/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus besos me dejan flotando en la nada
+> Una conexión que no fue planeada
+> Baby, tú eres la dueña de la madrugada
+> Caricias en el vacío, mi alma robada
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
