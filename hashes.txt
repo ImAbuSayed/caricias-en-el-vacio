@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricias en el vacío
+
+This log tracks the cryptographic history and versioning for the song **Caricias en el vacío** (caricias-en-el-vacio).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T20:34:20.951860 | `v1` | `a334038e4733c9a01ca6f83d2699d2501298cd1b6ecfdfcd705d75190a999407` | `d373c5a8ba005219c5742b87917cab4144c094d8d93020845ebeb0f7371beaf6` | `2026-06-18_caricias-en-el-vacio-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
